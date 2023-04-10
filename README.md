@@ -1,5 +1,5 @@
 <h1 align="center">
- babyagi
+ babyagi_zh 支持中文任务
 
 </h1>
 
